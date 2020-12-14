@@ -3,7 +3,8 @@ import User from "../User/User";
 import FullUserInfo from "../FullInfoUser/FullUserInfo";
 import AllPost from "../All-post/AllPost";
 import './AllUsers.css';
-import API from '../Services/API';
+import API from "../Service/API";
+
 import {Route, withRouter} from "react-router-dom";
 
 

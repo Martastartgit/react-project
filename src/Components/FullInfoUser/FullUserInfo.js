@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import ChosenUserInfo from "../ChosenUserInfo/ChosenUserInfo";
-import API from '../Services/API';
+import API from "../Service/API";
 import {withRouter} from 'react-router-dom';
 
 class FullUserInfo extends Component {

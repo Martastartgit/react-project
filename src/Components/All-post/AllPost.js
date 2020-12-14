@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
-import ChosenPost from "../FullPostInfo/ChosenPost"
-import API from "../Services/API";
+import ChosenPost from "../FullPostInfo/ChosenPost";
+import API from "../Service/API";
 
 class AllPost extends Component {
 
