@@ -1,0 +1,16 @@
+.table {
+    color: dimgrey;
+    background-color: cornsilk;
+
+}
+.table-th {
+    width: 120px;
+}
+.table-td {
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-info  {
+    margin-left: 25px;
+}
